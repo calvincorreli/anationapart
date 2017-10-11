@@ -15,6 +15,7 @@ What do we want people in our country to know and understand?
 * Unity: Let's also help kids see how we're all similar, and how we're all connected and interdependent
 * Let them choose based on and follow their own desires and interests to a large extent. Let's show them that it's important to follow your own curiosity.
 * Learn how to stimulate your brain and keep it sharp.
+* Music, painting, sculpture, potry, and other art forms
 * Math
 * Language: The national language + at least one foreign language
 * Programming: I think it's important for everyone to understand basic programming. It's about a structured way of thinking that's very helpful for understanding and problem solving.
