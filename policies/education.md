@@ -13,6 +13,9 @@ What do we want people in our country to know and understand?
 * Bringing love and Inviting spirit into your life. Is this too much?
 * Self-awareness. Apart from learning about thoughts and feelings, let's also look at a bunch of different personality tests/frameworks, such as MBTI, DISC, Enneagram, Wealth Dynamics, Human Design, scientific hand analysis, and more. The idea is not that they're necessaily the truth, the idea is to give the kids lots of pointers and inspiration and references, so they can feel what resonates with them, what they feel is true for them. To put the spotlight on each child's uniqueness.
 * Unity: Let's also help kids see how we're all similar, and how we're all connected and interdependent
+* Masculine/feminine energies
+* Drama triangle and being a creator
+* Sex ed, but actually useful
 * Let them choose based on and follow their own desires and interests to a large extent. Let's show them that it's important to follow your own curiosity.
 * Learn how to stimulate your brain and keep it sharp.
 * Music, painting, sculpture, potry, and other art forms
