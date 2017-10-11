@@ -62,7 +62,7 @@ Stopping an addiction is as easy as one-two-three:
 
 1. Stop the behavior
 2. Deal with the emotions that come up
-3. There's on step three
+3. There's no step three
 
 The pain or emptiness can be addressed. It can only be addressed, however, by feeling the feelings that need to be felt. Let's teach people to do that, right from kindergartens and elementary schools.
 
