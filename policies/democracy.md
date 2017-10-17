@@ -1,4 +1,4 @@
-# # Democracy
+# Democracy
 
 The least worst way to govern a country is through indirect democracy: The population elects pubilc servants who make all the day-to-day decisions.
 
