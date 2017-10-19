@@ -16,7 +16,7 @@ A governance process needs to accomplish the following:
 
 ## Models
 
-There are many processes that do accomplish these objectivse, many of which are detailed here in our pattern section.
+There are many processes that do accomplish these objectivse, many of which are detailed here in our [pattern section](https://github.com/calvincorreli/inhabitable/tree/master/patterns/governance).
 
 However, the pervasive party-political system is not one of them. It fails on all three counts: Discussions go on endlessly, many decisions are disliked by all sides, and the party discipline where the party speaks with one voice prevents dissident voices from being heard, and prevents us from benefiting from the insights, intelligence, and creativity of many or even most of the members.
 
