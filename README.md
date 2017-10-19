@@ -6,3 +6,9 @@
 
 Calvin Correli  
 [calvincorreli.com](http://calvincorreli.com)
+
+## Principles
+
+* Create more life for all
+* Operate on a creative plane, not a competitive plane
+* Transparency
