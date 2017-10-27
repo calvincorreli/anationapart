@@ -2,13 +2,9 @@
 
 ## Designing a world worth living in
 
-[For more, read here](http://calvincorreli.com/pages/politics)
+[Background and information about the project](http://anationapart.com)
 
-Calvin Correli  
+Founded and lead by Calvin Correli
 [calvincorreli.com](http://calvincorreli.com)
 
-## Principles
-
-* Create more life for all
-* Operate on a creative plane, not a competitive plane
-* Transparency
+Check out our [core values](https://github.com/calvincorreli/anationapart/blob/master/values.md), our [policies](https://github.com/calvincorreli/anationapart/tree/master/policies) and our [patterns](https://github.com/calvincorreli/anationapart/tree/master/patterns).
