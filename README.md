@@ -1,6 +1,5 @@
-# Inhabitable
-
-## Designing a world worth living in
+# A Nation Apart
+– _Designing a world worth living in_
 
 [Background and information about the project](http://anationapart.com)
 
