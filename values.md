@@ -29,6 +29,6 @@
   not a one-sided exploitation.
 
 * Every citizen has a right to be here, have a right to think and believe what they want, and have a right to express 
-  themselves. Any political system that excludes certain groups of citizens cannot be a solution. Note that we're only 
-  talking legal citizens here. At the same time, the nation has a right to decide who else the allow into the country, 
-  under what circumstances, and who it will grant entry, residence, or citizenship to.
+  themselves. Any political system that excludes certain groups of citizens cannot be a solution. At the same time, 
+  the nation has a right to decide who else the allow into the country, under what circumstances, and who it will 
+  grant entry, residence, or citizenship to.
