@@ -10,7 +10,7 @@
   intelligent than any we could ever come up with. Let's learn from nature, which involves getting in touch with our 
   own nature, through our feelings and intuition.
 
-* We look at the world as a game of creativity, not competition. Life is not a zero-sum game, not without our nation,
+* We look at the world as a game of creativity, not competition. Life is not a zero-sum game, not within our nation,
   nor in our interaction with other nations. By being creative, innovative, courageous, we can provide tremendous value
   for everyone. The internet and GPS are both examples of amazing tools that was created by the US, specifically the
   DoD, and given to the world, for the benefit of everyone, while clearly giving the US particular benefits through 
