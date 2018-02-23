@@ -8,7 +8,7 @@
   that we're not in opposition to nature. We're an integral part of nature. Nature is in us, we are in nature. In fact,
   we _are_ nature. Nature can kill us at any moment if it wanted to. Nature has evolved solutions that are way more 
   intelligent than any we could ever come up with. Let's learn from nature, which involves getting in touch with our 
-  own nature, through our feelings intuition.
+  own nature, through our feelings and intuition.
 
 * We look at the world as a game of creativity, not competition. Life is not a zero-sum game, not without our nation,
   nor in our interaction with other nations. By being creative, innovative, courageous, we can provide tremendous value
