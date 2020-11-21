@@ -1,9 +1,9 @@
-# A Nation Apart
-– _Designing a world worth living in_
+# Notable Nation
+– _Creating the world we want to live in_
 
-[Background and information about the project](http://anationapart.com)
+[Background and information about the project](http://notablenation.com)
 
 Founded and led by Calvin Correli
 ([calvincorreli.com](http://calvincorreli.com))
 
-Check out our [core values](https://github.com/calvincorreli/anationapart/blob/master/values.md), our [policies](https://github.com/calvincorreli/anationapart/tree/master/policies) and our [patterns](https://github.com/calvincorreli/anationapart/tree/master/patterns).
+Check out our [core values](https://github.com/calvincorreli/notablenation/blob/master/values.md), our [policies](https://github.com/calvincorreli/notablenation/tree/master/policies) and our [patterns](https://github.com/calvincorreli/notablenation/tree/master/patterns).
